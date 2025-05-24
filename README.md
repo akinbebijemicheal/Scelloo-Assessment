@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a backend implementation for a group savings application where users can register, create savings plans, invite friends to join them, and manage tasks associated with plans. It uses PostgreSQL as the database with Sequelize ORM and follows a clean and scalable structure using TypeScript and Express.js.
+This project is a backend implementation for a simple nodejs application where users can register, create tasks, manage, complete and track tasks associated for user. It uses PostgreSQL as the database with Sequelize ORM and follows a clean and scalable structure using TypeScript and Express.js.
 
 ---
 
@@ -20,11 +20,7 @@ This project is a backend implementation for a group savings application where u
 ## 📌 Features
 
 * User Registration & Authentication
-* Create Group Savings Plans
-* Invite Friends to Join Plans
-* Accept/Reject Plan Invites
-* Manage Friend Requests
-* Create and Manage Tasks within Plans
+* Task Creation, Management and Tracking
 * Admin Management Tools
 
 ---
